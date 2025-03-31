@@ -1,13 +1,13 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/56b11aa122482ef10d74f229/1555352761792-MU2J85G6KCK2937FXP6O/Homepage+Banner+A.gif?format=2500w)]
 <h1 align="center">Hi 👋, I'm Sugali Uday Kiran</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate DevOps engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugaliudaykiran&label=Profile%20views&color=0e75b6&style=flat" alt="sugaliudaykiran" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Competitive programming Beginner level**
+- 🌱 I’m Working and Exploring on **DevOps Tech**
 
 - 📫 How to reach me **sugaliudaykirang@gmail.com**
 
